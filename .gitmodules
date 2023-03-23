@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FD"]
+	path = FD
+	url = https://github.com/cran/FD
+	shallow = true
+	registered = true
+[submodule "metacor"]
+	path = metacor
+	url = https://github.com/cran/metacor
+	shallow = true
+	registered = true
