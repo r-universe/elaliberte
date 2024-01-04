@@ -5,6 +5,3 @@
 [submodule "FD"]
 	path = FD
 	url = https://github.com/cran/FD
-[submodule "metacor"]
-	path = metacor
-	url = https://github.com/cran/metacor
